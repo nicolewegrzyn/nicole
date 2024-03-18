@@ -96,10 +96,10 @@ h3{
   margin: 1rem;
 }
 
-@media screen and ( max-width:780px) {
+/* @media screen and ( max-width:780px) {
   html{
     font-size: 50%;
   }
   
   
-}
+} */
